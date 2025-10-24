@@ -50,7 +50,7 @@ link <filename>.obj
 ```bash
 <filename>
 ```
-###🤝 Contribution
+### 🤝 Contribution
 Feel free to fork this repository, submit issues, or propose pull requests for improvements, alternative implementations, or additional DOS assembly exercises
 
-###This project is licensed under the MIT License - see the LICENSE file for details.
+### This project is licensed under the MIT License - see the LICENSE file for details.
