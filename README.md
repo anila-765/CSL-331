@@ -17,7 +17,7 @@ This repository includes the following programs, all written in assembly languag
 | **`factorial.asm`** | Computes the factorial of a given non-negative integer. |
 | **`multiplication_8bit.asm`** | Performs multiplication of two 8-bit numbers. |
 | **`palindrome.asm`** | Checks if a given string is a palindrome (reads the same forwards and backward). |
-| **`string_count.asm`** | Counts the total number of characters in a string (string length). |
+| **`string_count.asm`** | Counts the total number of words in a sentence. |
 
 ---
 
